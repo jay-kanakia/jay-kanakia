@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Jay Kanakia
 
-<!--
-**jay-kanakia/jay-kanakia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer transitioning from Telecom Engineering with experience in Software Engineering, Quality Assurance and AI/ML systems.
 
-Here are some ideas to get you started:
+## AI/ML Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Machine Learning  
+Python  
+NLP  
+MLOps  
+LangChain  
+RAG  
+AWS  
+
+## Projects
+
+Real Estate Price Prediction (ML project)
+
+Swiggy Delivery Time Prediction (MLOps project)
+
+Blog Writing AI Agent (LLM project)
+
+## Tech Stack
+
+Python  
+Pandas  
+NumPy  
+Scikit Learn  
+MLflow  
+Docker  
+AWS  
+LangChain  
+
+## Currently Learning
+
+MLOps production workflows  
+LLM applications  
+AI agents  
+
+## Goal
+
+Transition into AI/ML Engineer / MLOps Engineer role.
+
+## Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/jay-kanakia-a27226114/
