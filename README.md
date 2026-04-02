@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Jay Kanakia MLOps Banner" width="100%">
+  <img src="banner.png.png" alt="Jay Kanakia MLOps Banner" width="100%">
 </div>
 
 # Hi, I'm Jay Kanakia 🛠️🤖
