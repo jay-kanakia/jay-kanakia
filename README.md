@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" alt="Jay Kanakia MLOps Banner" width="100%">
+</div>
+
 # Hi, I'm Jay Kanakia 🛠️🤖
 
 **Systems & Quality Engineer | MLOps Specialist | GATE AIR 400**
