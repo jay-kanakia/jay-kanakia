@@ -46,4 +46,4 @@ Regression-based system built with professional software engineering practices.
 * **BSNL:** 8+ years managing Quality Assurance for Defense Networks (**NFS & NCN**).
 * **Accenture:** Software QA for global enterprise projects.
 
-📫 **Let's Connect:** https://www.linkedin.com/in/jay-kanakia-a27226114/
+📫 **Let's Connect:** https://www.linkedin.com/in/jaykanakia-mlops/
